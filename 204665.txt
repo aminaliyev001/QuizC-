@@ -1,0 +1,27 @@
+Quiz1
+Capital city of TUrkey
+Izmir,istanbul,Izmit,
+Ankara
+What is the capital of Azerbaijan
+Gence,Sumqayit_edited,seher,
+Baku
+
+Quiz2
+Adim nedir menim?
+Ali,Isi,Murad,
+Amin
+Soyadim nedir menim?
+Muradov,Memmedov,Qasimli,Sariyev,
+Aliyev
+
+Quiz_football
+Amin baloondor?
+3,2,4,
+0
+Messi baloondor count?
+5,6,4,
+7
+Ronaldo baloondor count?
+3,2,1,
+5
+
